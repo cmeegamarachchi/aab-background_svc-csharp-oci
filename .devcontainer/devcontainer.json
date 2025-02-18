@@ -14,9 +14,8 @@
         "vscode": {
             "extensions": [
                 "ms-dotnettools.vscode-dotnet-runtime",
-                "ms-dotnettools.csdevkit",
-                "ms-dotnetools.csharp",
                 "ms-dotnettools.csharp",
+                "ms-dotnettools.csdevkit",
                 "PKief.material-icon-theme",
                 "esbenp.prettier-vscode",
                 "fernandoescolar.vscode-solution-explorer"
